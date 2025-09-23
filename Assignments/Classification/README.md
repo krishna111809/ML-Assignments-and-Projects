@@ -32,3 +32,8 @@ This folder contains assignments focused on **classification algorithms** in Mac
 - 📒 [Notebook](SVM/SVM_Implementation.ipynb)  
 
 ---
+
+## 🔹 Upcoming Assignments  
+More classification algorithms will be added soon
+
+---
