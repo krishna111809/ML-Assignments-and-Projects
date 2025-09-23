@@ -1,22 +1,30 @@
-# ML Assignments and Projects
+# 📘 Machine Learning Assignments and Projects  
 
-This repository contains my Machine Learning (ML) assignments and projects completed as part of my Data Science & ML journey.
-
----
-
-## 📂 Repository Structure
-- **Assignments/** → ML practice tasks and exercises  
-- **Projects/** → Larger end-to-end ML projects  
+This repository contains my **Machine Learning coursework**, including both **assignments** and **projects**.  
+Assignments are organized by algorithm category (e.g., Classification), while projects demonstrate end-to-end applications of ML.  
 
 ---
 
-## 🛠️ Tools & Libraries
-- Python  
-- Pandas, NumPy  
-- Scikit-learn  
-- Matplotlib, Seaborn  
-- Jupyter Notebook  
+## 📂 Repository Structure  
+
+- **Assignments**  
+  Contains small ML assignments focused on understanding and implementing algorithms.  
+  - [Classification](Assignments/README.md)  
+    - KNN (K-Nearest Neighbors)  
+    - SVM (Support Vector Machine)  
+
+- **Projects** *(coming soon)*  
+  Contains major ML projects with real datasets and full pipelines.  
 
 ---
 
-📌 More assignments and projects will be added as I progress through my ML learning path.
+## 🛠️ Skills Covered  
+- Data Preprocessing & Cleaning  
+- Exploratory Data Analysis (EDA)  
+- Supervised Machine Learning (KNN, SVM, etc.)  
+- Model Training, Evaluation, and Tuning  
+- End-to-End ML Workflow  
+
+---
+
+⭐️ *This repository will be continuously updated with more assignments and ML projects.*  
