@@ -29,7 +29,7 @@ This folder contains assignments focused on **classification algorithms** in Mac
   - Train-test split and model fitting  
   - Performance evaluation using accuracy score and classification report  
 - **Result**: SVM classifier achieved high accuracy in correctly identifying edible vs poisonous mushrooms.  
-- 📒 [Notebook](SVM/SVM Implementation.ipynb)  
+- 📒 [Notebook](SVM/SVM_Implementation.ipynb)  
 
 ---
 
