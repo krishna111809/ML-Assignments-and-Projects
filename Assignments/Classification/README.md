@@ -43,7 +43,9 @@ This folder contains assignments focused on **classification algorithms** in Mac
   - Performance evaluation (accuracy score)
   - Generating predictions on the test dataset
 - **Result**: Achieved a solid training accuracy for classifying individual income levels.
-- 📒 [Notebook](Naive%20Bayes/Naive_Bayes_Assignment.ipynb)  
+- 📒 [Notebook](Naive%20Bayes/Naive_Bayes_Assignment.ipynb)
+
+---
 
 ## 🔹 Upcoming Assignments  
 More classification algorithms will be added soon
