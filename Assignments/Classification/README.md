@@ -42,7 +42,7 @@ This folder contains assignments focused on **classification algorithms** in Mac
   - Naive Bayes (GaussianNB) model training
   - Performance evaluation (accuracy score)
   - Generating predictions on the test dataset
-- **Result**: Achieved a solid training accuracy for classifying individual income levels.
+- **Result**: Achieved a solid accuracy for classifying individual income levels.
 - 📒 [Notebook](Naive%20Bayes/Naive_Bayes_Assignment.ipynb)
 
 ---
