@@ -11,7 +11,8 @@ Assignments are organized by algorithm category (e.g., Classification), while pr
   Contains small ML assignments focused on understanding and implementing algorithms.  
   - [Classification](Assignments/README.md)  
     - KNN (K-Nearest Neighbors)  
-    - SVM (Support Vector Machine)  
+    - SVM (Support Vector Machine)
+    - Naive Bayes
 
 - **Projects** *(coming soon)*  
   Contains major ML projects with real datasets and full pipelines.  
