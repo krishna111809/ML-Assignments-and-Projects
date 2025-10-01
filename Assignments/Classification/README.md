@@ -33,6 +33,18 @@ This folder contains assignments focused on **classification algorithms** in Mac
 
 ---
 
+## 🔹 Naive Bayes
+- **Dataset**: Adult Census Income Dataset 
+- **Problem Statement**: Predict whether an individual's annual income exceeds 50K. 
+- **Steps Performed**:  
+  - Data loading, inspection, and preprocessing (LabelEncoder, dropping redundant columns)
+  - Exploratory Data Analysis (EDA) with visualizations (heatmap, count plot)
+  - Naive Bayes (GaussianNB) model training
+  - Performance evaluation (accuracy score)
+  - Generating predictions on the test dataset
+- **Result**: Achieved a solid training accuracy for classifying individual income levels.
+- 📒 [Notebook](Naive\sBayes/Naive_Bayes_Implementation.ipynb)  
+
 ## 🔹 Upcoming Assignments  
 More classification algorithms will be added soon
 
